@@ -1,6 +1,6 @@
 # Knight And Magic
 
-**Genre**: 2D Platformer, Co-op, Puzzle-Action  
+**Genre**: 2D Platformer
 **Setting**: Medieval Fantasy
 
 ## Project Introduction
