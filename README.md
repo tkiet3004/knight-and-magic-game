@@ -1,4 +1,4 @@
-# Knight And Magic
+# Knight And Magic - Academic Project
 
 **Genre**: 2D Platformer
 **Setting**: Medieval Fantasy
@@ -20,6 +20,5 @@ Players take on the role of companions to solve puzzles based on the coordinatio
 - **Sound FX**: Categorized by role (Special Effects, Weapon fire, Explosions).
 - **Music**: Theme-based (Shell Screen, Level Theme).
 
-## Current Focus
-- **Phase 1**: Knight's Journey (Single player mechanics for the Knight first).
-- **Phase 2**: Co-op mechanics and Mage implementation.
+<img width="426" height="240" alt="Video Project" src="https://github.com/user-attachments/assets/e733f4e9-a563-4530-adc1-309ea78a3015" />
+
