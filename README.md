@@ -4,7 +4,7 @@
 **Setting**: Medieval Fantasy
 
 ## Project Introduction
-A 2D platformer game featuring co-op gameplay that combines puzzle-solving and combat. Set in a Medieval world, two players control characters with distinct abilities: a **Mage** and a **Knight**. They must coordinate to overcome obstacles, solve puzzles, and fight enemies in challenging environments. The main goal is to test the players' coordination and creativity.
+A 2D platformer game featuring on combat. Set in a Medieval world.
 
 ## Concepts
 Players take on the role of companions to solve puzzles based on the coordination between physical strength and magic.
